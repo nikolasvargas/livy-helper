@@ -1,6 +1,6 @@
+from functools import lru_cache
 from pprint import pprint
 from requests.models import Response
-from functools import lru_cache
 import json
 import requests
 import textwrap
